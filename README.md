@@ -8,6 +8,15 @@ en castellano evaluados por humanos.
 
 Los siguientes enlaces llevan a los cuadernos de Kaggle donde se han entrenado los modelos: 
 
-**ANÁLISIS EXPLORATORIO DE LOS DATOS:** https://www.kaggle.com/code/leireszc/an-lisis-exploratorio-de-los-datos 
+**ANÁLISIS EXPLORATORIO DE LOS DATOS:** 
+- https://www.kaggle.com/code/leireszc/an-lisis-exploratorio-de-los-datos
+
+
+**COHERENCE**
+ 
+  - Coherence sin aumento de datos: https://www.kaggle.com/code/leireszc/coherence-tfg-leire-sin-data-aumentation
+  - Coherence con aumento de datos utilizando undersampling y oversampling aleatorio: https://www.kaggle.com/code/leireszc/coherence-tfg-leire-oversampling-undersampling
+  - Aumento de datos con sinónimos: https://www.kaggle.com/code/bernisaez/data-aumentation-coherence
+  - Coherence con aumento de datos utilizando sustitución por sinónimos: https://www.kaggle.com/code/bernisaez/coherence-con-sinonimos
 
 
