@@ -20,3 +20,9 @@ Los siguientes enlaces llevan a los cuadernos de Kaggle donde se han entrenado l
   - Coherence con aumento de datos utilizando sustitución por sinónimos: https://www.kaggle.com/code/bernisaez/coherence-con-sinonimos
 
 
+**FLUENCY**
+- Fluency sin aumento de datos: https://www.kaggle.com/code/bernisaez/fluency-leire-sin-data-aumentation
+- Fluency con aumento de datos utilizando undersampling y oversampling aleatorio https://www.kaggle.com/code/bernisaez/fluency-tfg-leire-oversampling-undersampling
+
+ 
+
