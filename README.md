@@ -8,9 +8,12 @@ en castellano evaluados por humanos.
 
 Los siguientes enlaces llevan a los cuadernos de Kaggle donde se han entrenado los modelos: 
 
+<br>
+
 **ANÁLISIS EXPLORATORIO DE LOS DATOS:** 
 - https://www.kaggle.com/code/leireszc/an-lisis-exploratorio-de-los-datos
 
+<br>
 
 **COHERENCE**
  
@@ -19,22 +22,27 @@ Los siguientes enlaces llevan a los cuadernos de Kaggle donde se han entrenado l
   - Aumento de datos con sinónimos: https://www.kaggle.com/code/bernisaez/data-aumentation-coherence
   - Coherence con aumento de datos utilizando sustitución por sinónimos: https://www.kaggle.com/code/bernisaez/coherence-con-sinonimos
 
+<br>
 
 **FLUENCY**
 - Fluency sin aumento de datos: https://www.kaggle.com/code/bernisaez/fluency-leire-sin-data-aumentation
 - Fluency con aumento de datos utilizando undersampling y oversampling aleatorio: https://www.kaggle.com/code/bernisaez/fluency-tfg-leire-oversampling-undersampling
 
+<br>
  
 **5W1H**
 - 5W1H sin aumento de datos: https://www.kaggle.com/code/leireszc/5w1h-tfg-sin-data-aumentation
 - 5W1H con aumento de datos utilizando undersampling y oversampling aleatorio: https://www.kaggle.com/code/leireszc/5w1h-tfg-oversampling-undersampling
 
+<br>
 
-**Consistency**
+**CONSISTENCY**
 - Consistency sin aumento de datos: https://www.kaggle.com/code/saraglzb/consistency-sin-data-aumentation
 - Consistency con aumento de datos utilizando undersampling y oversampling aleatorio: https://www.kaggle.com/code/saraglzb/consistency-under-oversampling
 
-**Relevance**
+<br>
+
+**RELEVANCE**
 - Relevance sin aumento de datos: https://www.kaggle.com/code/leireszc/relevance-sin-data-aumentation
 - Relevance con aumento de datos utilizando undersampling y oversampling aleatorio: https://www.kaggle.com/code/leireszc/relevance-oversampling-undersampling
 
