@@ -9,10 +9,12 @@ en castellano evaluados por humanos.
 Los siguientes enlaces llevan a los cuadernos de Kaggle donde se han entrenado los modelos: 
 
 <br>
+<br>
 
 **ANÁLISIS EXPLORATORIO DE LOS DATOS:** 
 - https://www.kaggle.com/code/leireszc/an-lisis-exploratorio-de-los-datos
 
+<br>
 <br>
 
 **COHERENCE**
@@ -23,11 +25,13 @@ Los siguientes enlaces llevan a los cuadernos de Kaggle donde se han entrenado l
   - Coherence con aumento de datos utilizando sustitución por sinónimos: https://www.kaggle.com/code/bernisaez/coherence-con-sinonimos
 
 <br>
+<br>
 
 **FLUENCY**
 - Fluency sin aumento de datos: https://www.kaggle.com/code/bernisaez/fluency-leire-sin-data-aumentation
 - Fluency con aumento de datos utilizando undersampling y oversampling aleatorio: https://www.kaggle.com/code/bernisaez/fluency-tfg-leire-oversampling-undersampling
 
+<br>
 <br>
  
 **5W1H**
@@ -35,11 +39,13 @@ Los siguientes enlaces llevan a los cuadernos de Kaggle donde se han entrenado l
 - 5W1H con aumento de datos utilizando undersampling y oversampling aleatorio: https://www.kaggle.com/code/leireszc/5w1h-tfg-oversampling-undersampling
 
 <br>
+<br>
 
 **CONSISTENCY**
 - Consistency sin aumento de datos: https://www.kaggle.com/code/saraglzb/consistency-sin-data-aumentation
 - Consistency con aumento de datos utilizando undersampling y oversampling aleatorio: https://www.kaggle.com/code/saraglzb/consistency-under-oversampling
 
+<br>
 <br>
 
 **RELEVANCE**
