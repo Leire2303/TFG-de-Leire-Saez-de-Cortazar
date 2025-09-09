@@ -22,7 +22,20 @@ Los siguientes enlaces llevan a los cuadernos de Kaggle donde se han entrenado l
 
 **FLUENCY**
 - Fluency sin aumento de datos: https://www.kaggle.com/code/bernisaez/fluency-leire-sin-data-aumentation
-- Fluency con aumento de datos utilizando undersampling y oversampling aleatorio https://www.kaggle.com/code/bernisaez/fluency-tfg-leire-oversampling-undersampling
+- Fluency con aumento de datos utilizando undersampling y oversampling aleatorio: https://www.kaggle.com/code/bernisaez/fluency-tfg-leire-oversampling-undersampling
 
  
+**5W1H**
+- 5W1H sin aumento de datos: https://www.kaggle.com/code/leireszc/5w1h-tfg-sin-data-aumentation
+- 5W1H con aumento de datos utilizando undersampling y oversampling aleatorio: https://www.kaggle.com/code/leireszc/5w1h-tfg-oversampling-undersampling
+
+
+**Consistency**
+- Consistency sin aumento de datos: https://www.kaggle.com/code/saraglzb/consistency-sin-data-aumentation
+- Consistency con aumento de datos utilizando undersampling y oversampling aleatorio: https://www.kaggle.com/code/saraglzb/consistency-under-oversampling
+
+**Relevance**
+- Relevance sin aumento de datos: https://www.kaggle.com/code/leireszc/relevance-sin-data-aumentation
+- Relevance con aumento de datos utilizando undersampling y oversampling aleatorio: https://www.kaggle.com/code/leireszc/relevance-oversampling-undersampling
+
 
