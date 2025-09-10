@@ -11,11 +11,15 @@ Los siguientes enlaces llevan a los cuadernos de Kaggle donde se han entrenado l
 <br>
 <br>
 
+
+
 **ANÁLISIS EXPLORATORIO DE LOS DATOS:** 
 - https://www.kaggle.com/code/leireszc/an-lisis-exploratorio-de-los-datos
 
 <br>
 <br>
+
+
 
 **COHERENCE**
  
@@ -27,12 +31,20 @@ Los siguientes enlaces llevan a los cuadernos de Kaggle donde se han entrenado l
 <br>
 <br>
 
+
+
 **FLUENCY**
 - Fluency sin aumento de datos: https://www.kaggle.com/code/bernisaez/fluency-leire-sin-data-aumentation
 - Fluency con aumento de datos utilizando undersampling y oversampling aleatorio: https://www.kaggle.com/code/bernisaez/fluency-tfg-leire-oversampling-undersampling
+- Aumento de datos con sustitución de sinónimos experimental:
+- Fluency con aumento de datos utilizando el dataset aumentado con sustitución de sinónimos: https://www.kaggle.com/code/bernisaez/fluency-tfg-leire-eda
+- Aumento de datos con sustitución de sinónimos experimental:
+- 5W1H con aumento de datos utilizando el dataset aumentado con sustitución de sinónimos experimental: https://www.kaggle.com/code/bernisaez/fluency-tfg-leire-eda-2
+
 
 <br>
 <br>
+
  
 **5W1H**
 - 5W1H sin aumento de datos: https://www.kaggle.com/code/leireszc/5w1h-tfg-sin-data-aumentation
@@ -42,8 +54,10 @@ Los siguientes enlaces llevan a los cuadernos de Kaggle donde se han entrenado l
 - Aumento de datos con sustitución de sinónimos: https://www.kaggle.com/code/bernisaez/data-aumentation-5w1h-sin-nimos
 - 5W1H con aumento de datos utilizando el dataset aumentado con sustitución de sinónimos: https://www.kaggle.com/code/leireszc/5w1h-tfg-leire-sin-nimos
 
+  
 <br>
 <br>
+
 
 **CONSISTENCY**
 - Consistency sin aumento de datos: https://www.kaggle.com/code/saraglzb/consistency-sin-data-aumentation
@@ -51,6 +65,7 @@ Los siguientes enlaces llevan a los cuadernos de Kaggle donde se han entrenado l
 
 <br>
 <br>
+
 
 **RELEVANCE**
 - Relevance sin aumento de datos: https://www.kaggle.com/code/leireszc/relevance-sin-data-aumentation
