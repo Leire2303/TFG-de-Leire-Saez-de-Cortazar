@@ -37,6 +37,10 @@ Los siguientes enlaces llevan a los cuadernos de Kaggle donde se han entrenado l
 **5W1H**
 - 5W1H sin aumento de datos: https://www.kaggle.com/code/leireszc/5w1h-tfg-sin-data-aumentation
 - 5W1H con aumento de datos utilizando undersampling y oversampling aleatorio: https://www.kaggle.com/code/leireszc/5w1h-tfg-oversampling-undersampling
+- Aumento de datos con BackTranslation: https://www.kaggle.com/code/leireszc/data-aumentation-backtranslation-5w1h
+- 5W1H con aumento de datos utilizando el dataset aumentado con Back-Translation: https://www.kaggle.com/code/leireszc/5w1h-tfg-oversampling-backtranslatio
+- Aumento de datos con sustitución de sinónimos: https://www.kaggle.com/code/bernisaez/data-aumentation-5w1h-sin-nimos
+- 5W1H con aumento de datos utilizando el dataset aumentado con sustitución de sinónimos: https://www.kaggle.com/code/leireszc/5w1h-tfg-leire-sin-nimos
 
 <br>
 <br>
