@@ -36,9 +36,9 @@ Los siguientes enlaces llevan a los cuadernos de Kaggle donde se han entrenado l
 **FLUENCY**
 - Fluency sin aumento de datos: https://www.kaggle.com/code/bernisaez/fluency-leire-sin-data-aumentation
 - Fluency con aumento de datos utilizando undersampling y oversampling aleatorio: https://www.kaggle.com/code/bernisaez/fluency-tfg-leire-oversampling-undersampling
-- Aumento de datos con sustitución de sinónimos experimental:
+- Aumento de datos con sustitución de sinónimos: https://www.kaggle.com/code/bernisaez/data-aumentation-fluency
 - Fluency con aumento de datos utilizando el dataset aumentado con sustitución de sinónimos: https://www.kaggle.com/code/bernisaez/fluency-tfg-leire-eda
-- Aumento de datos con sustitución de sinónimos experimental:
+- Aumento de datos con sustitución de sinónimos experimental: https://www.kaggle.com/code/bernisaez/fluency-data-aumentation-con-eda-sin-ukn
 - 5W1H con aumento de datos utilizando el dataset aumentado con sustitución de sinónimos experimental: https://www.kaggle.com/code/bernisaez/fluency-tfg-leire-eda-2
 
 
